@@ -1,2 +1,2 @@
 # Student-Management-System
-Delineations and evolution of a basic desktop based software to simplify and centralize the information of the students.
+It is Desktop based application which allows user to manage the inventory without going online. Its GUI build on java swing and database on MySQL
